@@ -2,6 +2,8 @@
 
 This bot wins the majority of Epochs on PancakeSwap & CandleGenie Prediction based on market conditions & the strategy chosen.
 
+![Wins](https://user-images.githubusercontent.com/93492689/139600566-39dd4cdb-b895-4988-9b08-a487dc5f562e.png)
+
 ## 💡 How to use
 
 Download & Install Node here :
@@ -46,6 +48,7 @@ Using CandleGenie? If you want to play with Candle Genie instead of Pancake, sta
 All investment strategies and investments involve risk of loss.
 **Nothing contained in this program, scripts, code or repository should be construed as investment advice.**
 Any reference to an investment's past or potential performance is not,
+
 and should not be construed as, a recommendation or as a guarantee of
 any specific outcome or profit.
 By using this program you accept all liabilities, and that no claims can be made against the developers or others connected with the program.
