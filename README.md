@@ -11,8 +11,8 @@ https://nodejs.org/en/download/
 
 Then run command prompt or powershell.  
 
-Type "cd C:\Users\Bot\Desktop\PredictionBotV1(Replace with your Explorer folder here)"
-Type "npm i"
+- Type ``cd C:\Users\Bot\Desktop\PredictionBotV1`` (replace with your cloned/downloaded bot folder)
+- Type ``npm i
 
 Follow directions below -
 
