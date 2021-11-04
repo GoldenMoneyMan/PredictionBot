@@ -12,11 +12,11 @@ https://nodejs.org/en/download/
 Then run command prompt or powershell.  
 
 - Type ``cd C:\Users\Bot\Desktop\PredictionBotV1`` (replace with your cloned/downloaded bot folder)
-- Type ``npm i
+- Type ``npm i``
 
 Follow directions below -
 
-1. Provide your private key to **.env** PRIVATE_KEY field
+1. Create a file named ``.env`` and add a variable for your private key like this: ``PRIVATE_KEY="KEYGOESHERE"``. To overwrite the default bet amount, you can add another line with variable ``BET_AMOUNT="0.001"``.
 2. Install dependencies `npm i` or `yarn` if not already completed above.
 3. Start the bot using `npm run start` or `yarn start`
 4. Enjoy winning!
